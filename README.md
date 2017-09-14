@@ -1,2 +1,3 @@
 # ledashuaia
-this in my first program
+this is my first program
+i'm a sunny boy
